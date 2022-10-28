@@ -1,9 +1,10 @@
 - Hi, I’m João Victor Garcia! I hope that all you are well.
-- I’m a mobile developer and technology enthusiast. 
-- I've been working with Flutter in projects of several segments such as: Warehouse Management, Digital Bank and Education Platform. 
-- I'm also experienced as a Flutter Instructor.
-- Currently I'am learning Swift.
-- I'm enthusiast of software architecture and good practices.
+
+I'm a software developer and technology enthusiast because of its power to transform ideas into reality, dynamize the static and democratize the restricted. I have been acting as a Flutter developer in projects of several segments such as: Warehouse Management, Digital Bank and Education Platform. I am also experienced as a Flutter Instructor.
+
+I'm enthusiast of software architecture and good practices like TDD, DDD and Clean Architecture.
+
+Currently, I'm learning Swift.
 
 
 <!---
