@@ -4,8 +4,6 @@ I'm a software developer and technology enthusiast because of its power to trans
 
 I'm enthusiast of software architecture and good practices like TDD, DDD and Clean Architecture.
 
-Currently, I'm learning Swift.
-
 
 <!---
 joaovictorgarcia10/joaovictorgarcia10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
