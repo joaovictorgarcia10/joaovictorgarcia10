@@ -1,6 +1,5 @@
-Hi, I’m João Victor Garcia! I hope that all you are well 😃
+I am a software developer and technology enthusiast driven by the transformative power of turning ideas into reality. With expertise in mobile development using Flutter & Dart technologies, I have successfully delivered projects across diverse sectors, including Warehouse Management, Digital Banking, and Education Platforms. In addition, I have valuable experience as a Flutter Instructor, further enhancing my technical proficiency.
 
-I'm a software developer and technology enthusiast because of its power to transform ideas into reality, dynamize the static and democratize the restricted. I have been acting as a Flutter developer in projects of several segments such as: Warehouse Management, Digital Bank and Education Platform. I am also experienced as a Flutter Instructor.
 
 
 <!---
