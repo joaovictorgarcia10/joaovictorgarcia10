@@ -1,5 +1,6 @@
-I am a software developer and technology enthusiast driven by the transformative power of turning ideas into reality. With expertise in mobile development using Flutter & Dart technologies, I have successfully delivered projects across diverse sectors, including Warehouse Management, Digital Banking, and Education Platforms. In addition, I have valuable experience as a Flutter Instructor, further enhancing my technical proficiency.
+👋 Hello! I'm João Victor, a software developer and technology enthusiast driven by the transformative power of turning ideas into reality. 
 
+🚀 With 3+ years of expertise in mobile development, I'm successfully working since the conception, development until delivery in projects of diverse sectors, including Warehouse Management, Digital Banking, and Education Platform. In addition, I have valuable experience as a Flutter Instructor, further enhancing my technical proficiency.
 
 
 <!---
